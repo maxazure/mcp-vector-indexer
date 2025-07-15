@@ -1,0 +1,5 @@
+sentence-transformers>=2.2.2
+chromadb>=0.4.15
+tqdm>=4.66.1
+pytest>=7.4.3
+pytest-cov>=4.1.0
